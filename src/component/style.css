@@ -22,10 +22,10 @@ header {
 }
 
 .words {
-    font-family: "Cutive", sans-serif;
+    font-family: 'IBM Plex Mono', monospace;
     margin: 0 50px;
 
-    font-size: 16px;
+    font-size: 18px;
     text-align: justify;
 
     width: 80vw;
